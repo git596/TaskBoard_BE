@@ -15,7 +15,7 @@ A Node.js Express backend for a Task Board application with Node.js with express
 3.  Run the contents of `schema.sql` to create the database and tables.
 
 ## 2. Environment variables Configuration
-1.  Fill all the credentials specified with correct values:
+1.  Create a .env files with following parameters. Fill all the credentials specified with correct values:
     ```env
     PORT=<server port that backend should run Ex: 5000 or 5001>                
     DB_HOST=<Database host ex:localhost>
