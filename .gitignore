@@ -1,1 +1,4 @@
-# This is the gitignore file
+node_modules
+.env
+.DS_Store
+npm-debug.log
